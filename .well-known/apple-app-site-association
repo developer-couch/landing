@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "3P63LK4J8C.com.developercouch.bridgepoints" ],
+        "components": [
+          {
+            "/": "/tournaments/*",
+            "comment": "Tournament detail page"
+          }
+        ]
+      }
+    ]
+  }
+}
