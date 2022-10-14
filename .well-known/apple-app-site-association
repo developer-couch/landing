@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [ "3P63LK4J8C.com.developercouch.bridgepoints" ],
+        "appIDs": [ "UHXC7T36LL.com.developercouch.bridgepoints" ],
         "components": [
           {
             "/": "/tournaments/*",
