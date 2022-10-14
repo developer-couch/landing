@@ -1,11 +1,13 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "UHXC7T36LL.com.developercouch.bridgepoints",
-        "paths": [
-          "/tournaments/*"
+        "appIDs": [ "UHXC7T36LL.com.developercouch.bridgepoints" ],
+        "components": [
+          {
+            "/": "/tournaments/*",
+            "comment": "Tournament detail page"
+          }
         ]
       }
     ]
